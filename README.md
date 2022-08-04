@@ -6,7 +6,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/FAIRly-simp
 ## Exercises
 
 ## Quizzes
-- [FAIR-Aware](https://fairaware.dans.knaw.nl/)
+- [FAIR-Aware](https://fairaware.dans.knaw.nl/); a set of questions to help you understand FAIR principles for your research data management planning.
 
 ## Videos
 - [Pixel Datascapes Episode 1: Lessons on Data Management in Pokémon](https://www.youtube.com/watch?v=7Fc3k7x-IiM) by Hannah Gunderman
