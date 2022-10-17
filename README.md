@@ -1,12 +1,12 @@
 # FAIRly Simples 🎲 🧩 🎮
-A collection of exercises, in a form of quizzes, videos, and games, that help to learn FAIR data principles and importance of data management.
+A collection of learning material, in a form of quizzes, videos, and games, that help to learn FAIR data principles and importance of data management.
 
 Contribute by submitting [pull requests](https://github.com/Nazeeefa/FAIRly-simples/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/FAIRly-simples/issues). Thank you.
 
 ## Exercises
 
 ## Quizzes
-- [FAIR or Not FAIR](https://howtofair.dk/quiz/)
+- [FAIR or Not FAIR](https://howtofair.dk/quiz/) by Danish National Forum for Research Data Management's [How To FAIR](https://howtofair.dk/about/)
 - [FAIR-Aware](https://fairaware.dans.knaw.nl/); a set of questions to help you understand FAIR principles for your research data management planning.
 
 ## Videos
