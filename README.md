@@ -4,7 +4,8 @@ A collection of learning material, in a form of quizzes, videos, and games, that
 Contribute by submitting [pull requests](https://github.com/Nazeeefa/FAIRly-simples/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/FAIRly-simples/issues). Thank you.
 
 ## Exercises
-- [Data and the FAIR Principles] course by [ReproNim](https://www.repronim.org/)
+- 
+- [Data and the FAIR Principles](http://www.repronim.org/module-FAIR-data/reference/) course by [ReproNim](https://www.repronim.org/); includes exercises on: searching for unique identifiers, exploring registeries at identifiers.org, and assessing FAIRness of repositories.
 
 ## Quizzes
 - [FAIR or Not FAIR](https://howtofair.dk/quiz/) by Danish National Forum for Research Data Management's [How To FAIR](https://howtofair.dk/about/)
