@@ -1,4 +1,4 @@
-# FAIRly Simples 🎲 🧩 🎮
+# FAIRly Simples 🖥 📝 🧩 🎮 🎲
 A collection of learning material, in a form of quizzes, videos, and games, that help to learn FAIR data principles and importance of data management.
 
 Contribute by submitting [pull requests](https://github.com/Nazeeefa/FAIRly-simples/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/FAIRly-simples/issues). Thank you.
