@@ -3,6 +3,9 @@ A collection of learning material, in a form of quizzes, videos, and games, that
 
 Contribute by submitting [pull requests](https://github.com/Nazeeefa/FAIRly-simples/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/FAIRly-simples/issues). Thank you.
 
+## Readings
+- [A FAIRY Tale](https://zenodo.org/record/2248200#.Y06UM-xBweb); 
+
 ## Exercises
 - 
 - [Data and the FAIR Principles](http://www.repronim.org/module-FAIR-data/reference/) course by [ReproNim](https://www.repronim.org/); includes exercises on: searching for unique identifiers, exploring registeries at identifiers.org, and assessing FAIRness of repositories.
