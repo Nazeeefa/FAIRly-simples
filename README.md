@@ -6,16 +6,16 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/FAIRly-simp
 ## Exercises
 - [Data and the FAIR Principles](http://www.repronim.org/module-FAIR-data/reference/) course by [ReproNim](https://www.repronim.org/); includes exercises on: searching for unique identifiers, exploring registeries at identifiers.org, and assessing FAIRness of repositories.
 
-## Games
+## 🎮 Games
 - [FAIRopoly – FAIRification Guidance for ERN Patient Registries](https://www.ejprarediseases.org/fairopoly/)
 - [Data Horror Escape Room](https://sites.google.com/vu.nl/datahorror/home)
 
-## Quizzes
+## 📝 Quizzes
 - [FAIR or Not FAIR](https://howtofair.dk/quiz/) by Danish National Forum for Research Data Management's [How To FAIR](https://howtofair.dk/about/)
 - [FAIR-Aware](https://fairaware.dans.knaw.nl/); a set of questions to help you understand FAIR principles for your research data management planning.
 - [FAIR Use Quiz](https://www.infodocket.com/2015/02/28/what-is-and-is-not-fair-use-mit-libraries-debuts-mobile-version-of-fair-use-quiz/); to understand basics of copyright
 
-## Readings
+## 📖 Readings
 - [A FAIRY Tale](https://zenodo.org/record/2248200#.Y06UM-xBweb); FAIR data principles explained with a fictional story.
 
 ## Videos
