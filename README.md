@@ -20,6 +20,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/FAIRly-simp
 - [FAIR Use Quiz](https://www.infodocket.com/2015/02/28/what-is-and-is-not-fair-use-mit-libraries-debuts-mobile-version-of-fair-use-quiz/); to understand basics of copyright laws.
 - [Open and Closed File Formats (in French) ](https://doranum.fr/stockage-archivage/quiz-format-ouvert-ou-ferme_10_13143_mcwq-qs64/) by Digital Learning Research Data, France.
 - [Do not FAIR](https://doranum.fr/2021/10/18/faut-pas-sen-fair-avec-le-service-formation/) by Digital Learning Research Data, France. Material for game (questions) is available on Zenodo (in French): https://zenodo.org/record/5785662#.ZBmqbOzMJqv
+- [Research Data Management (course by ELIXIR Finland) includes quizzes on e.g. data collection, data reuse, and so on](https://e-learn.csc.fi/course/view.php?id=63) - requires Life Science login for access
 
 ## 📖 Readings
 - [A FAIRY Tale](https://zenodo.org/record/2248200#.Y06UM-xBweb); FAIR data principles explained with a fictional story.
