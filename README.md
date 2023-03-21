@@ -9,6 +9,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/FAIRly-simp
 ## 🎮 Games
 - [FAIRopoly – FAIRification Guidance for ERN Patient Registries](https://www.ejprarediseases.org/fairopoly/)
 - [Data Horror Escape Room](https://sites.google.com/vu.nl/datahorror/home)
+- [Data Game by Netherland's Data Archiving and Networked Services (DANS)](https://dans.knaw.nl/en/dans-data-game/)
 
 ## 📝 Quizzes
 - [FAIR or Not FAIR](https://howtofair.dk/quiz/) by Danish National Forum for Research Data Management's [How To FAIR](https://howtofair.dk/about/)
